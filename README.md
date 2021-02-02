@@ -11,8 +11,25 @@
   </table>
 </center>  
 
+### Who am I ?
 
-### - Languages and Tools...
+Hello! I'm **Gustavo Caldas**, a **Computer Sciencie student** 🚀 from São Paulo, Brazil.
+I love programming and see how the technology works!
+Currently i am studying spring framework and creating API's using REST!
+
+- 📫 Email me at [gustavocaldes@gmail.com](gustavocaldes@gmail.com).
+- 💼 My linkedin [https://www.linkedin.com/in/gustavo-caldas-32375716b/](https://www.linkedin.com/in/gustavo-caldas-32375716b/).
+---
+
+### - I'm currently...
+
+- Improving my JS skills.
+- Learning how to make API's REST using Spring Boot.
+- Learning React and React-native.
+
+---
+
+### - Some of my Skills...
 
 <p align="center">
 
@@ -28,21 +45,3 @@
 ---
 
 </p>
-
-<!--
-**GustavoCaldas/GustavoCaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
