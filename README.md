@@ -3,6 +3,14 @@
 <!--
 **GustavoCaldas/GustavoCaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<center>
+  <table>
+    <tr>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=GustavoCaldas&show_icons=true&theme=tokyonight" /></td>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCaldas&layout=compact&theme=tokyonight"</td>
+    </tr>   
+  </table>
+</center>  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
