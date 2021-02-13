@@ -11,11 +11,11 @@
   </table>
 </center>  
 
-### Who am I ?
+### Who is Gustavo Caldas ?
 
-Hello! I'm **Gustavo Caldas**, a **Computer Sciencie student** 🚀 from São Paulo, Brazil.
-I love programming and see how the technology works!
-Currently i am studying spring framework and creating API's using REST!
+Hello you! I'm **Gustavo Caldas**, a **Computer Sciencie student** 🚀 from São Paulo, Brazil.
+I love programming and i love how the technology works!
+Currently i am studying Java (Spring Boot) and .NET and creating some API's using RESTful!
 
 - 📫 Email me at [gustavocaldes@gmail.com](gustavocaldes@gmail.com).
 - 💼 My linkedin [https://www.linkedin.com/in/gustavo-caldas-32375716b/](https://www.linkedin.com/in/gustavo-caldas-32375716b/).
@@ -23,8 +23,8 @@ Currently i am studying spring framework and creating API's using REST!
 
 ### - I'm currently...
 
-- Improving my JS skills.
-- Learning how to make API's REST using Spring Boot.
+- Improving my JS and C# skills.
+- Learning how to make API's REST using Spring Boot and .NET.
 - Learning React and React-native.
 
 ---
